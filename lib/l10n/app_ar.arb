@@ -1,0 +1,14 @@
+{
+  "appTitle" : "اسلامى",
+  "quranIcon" : "قرآن",
+  "radioIcon" : "الأذاعه",
+  "sebhaIcon" : "السبحه",
+  "hadesIcon" : "الاحاديث",
+  "settingIcon" : "الاعدادات",
+  "themeTitle" : "النمط",
+  "themeDark" : "ليلى",
+  "themeLight" : "نهارى",
+  "languageTitle" : "اللغه",
+  "languageArabic" : "العربيه",
+  "languageEnglish" : "الانجليزيه"
+}
