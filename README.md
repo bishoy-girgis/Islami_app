@@ -8,7 +8,8 @@ A Flutter application developed to provide a comprehensive Islamic experience, f
 - Efficient data management implemented using Provider state management.
 - English and Arabic localization incorporated for a broader user base.
 - Light and dark themes available for user preference.
-
+  
+![Light Theme](images/islami 1.png)
 ## Features
 
 The app offers the following features:
