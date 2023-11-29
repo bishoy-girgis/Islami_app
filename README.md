@@ -9,7 +9,8 @@ A Flutter application developed to provide a comprehensive Islamic experience, f
 - English and Arabic localization incorporated for a broader user base.
 - Light and dark themes available for user preference.
   
-![Light Theme](images/islami 1.png)
+![Light Theme](https://github.com/bishoy-girgis/Islami_app/blob/master/images/islami%201.png)
+![Dark Theme](https://github.com/bishoy-girgis/Islami_app/blob/master/images/islami%202.png)
 ## Features
 
 The app offers the following features:
